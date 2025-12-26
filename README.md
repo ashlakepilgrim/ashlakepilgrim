@@ -33,9 +33,6 @@ Tinkering & breaking down systems to comprehend the complexities & build from th
 ### 🔭 Stats
 
 <!-- ![ashlakepilgrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashlakepilgrim&show_icons=true&theme=kacho_ga&bg_color=00000000&border_color=00000000) -->
-```shell
-echo none
-```
 
 <h1>
   <img src="assets/chosenundead.gif">
